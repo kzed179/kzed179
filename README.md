@@ -1,16 +1,22 @@
-## Hi there 👋
+# 👋 Hello, I'm Khant Zaw Wai (a.k.a. kzed179)
 
-<!--
-**kzed179/kzed179** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 ICT Student | 💻 Future Engineer | 🌏 Based in Thailand
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+- 👨‍🎓 Currently studying **Information & Communication Technology**
+- 🔧 Interested in **Web Development**, **Embedded Systems**, and **AI**
+- 🌱 Learning: `C#`, `Java`, `Python`, `HTML`, `CSS`, and `JavaScript`
+- 🎯 Goal: Build cool stuff, grow skills, and contribute to open source
+- ✈️ Planning to study abroad in **Austria** and pursue a tech career
+
+---
+
+## 🧠 Skills
+
+```python
+Languages      = [ "Python", "Java", "C#", "HTML", "CSS", "SQL" ]
+Tools & IDEs   = [ "Visual Studio", "VS Code", "Git", "Notion" ]
+CurrentlyLearning = [ "React", "Flask", "Linux", "GitHub Actions" ]
